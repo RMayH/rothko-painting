@@ -1,0 +1,6 @@
+.frame {
+    margin: auto;
+    width: 90vw;
+    height: 80vh;    
+    border: 30px solid black;
+}
